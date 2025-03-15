@@ -95,8 +95,7 @@ Enhancing embedding techniques for richer feature representations.
 Expanding the dataset and exploring additional data augmentation techniques.
 Further hyperparameter tuning and model comparison.
 
-## Authors
-Hassan KHADRA - UA
+## Author
 Elias-Charbel SALAMEH - USEK
 
 ## License
