@@ -56,11 +56,15 @@ Multiple experiments were conducted with different architectures and hyperparame
    ```bash
    git clone https://github.com/your-username/your-repository.git
 ```
+
 Navigate to the project directory:
+
 ```bash
 cd your-repository
 ```
+
 Install the required dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
