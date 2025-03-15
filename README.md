@@ -53,8 +53,8 @@ Multiple experiments were conducted with different architectures and hyperparame
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+```bash
+git clone https://github.com/your-username/your-repository.git
 ```
 
 Navigate to the project directory:
